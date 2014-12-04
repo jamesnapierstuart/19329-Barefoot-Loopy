@@ -1,4 +1,4 @@
 19329-Intelligent-Interactive-Looping-Beat-Generation
 =====================================================
 Overall functionality; The system has three levels/modes. Mode one, ‘Looping’ takes user’s live input and loops it, intelligently expanding or contracting data to reach whole bars. Mode two, ‘Beat Generation’ takes users’ onset data and creates beats from the rhythms of the onsets. Behind these two modes, the system is listening and responding intuitively in the same key, scale and rhythms as the user has created. Mode Three, ‘Mute Control’ allows users the ability to solo or mute out the three main aspects of this design, live looping, beat generation and automative response.
-Using Arduino/Makey Makey hardware and custom built pads to trigger events, which are then processed within SuperCollider to execute the functionality discussed above.
+Using Arduino/Makey Makey hardware and custom built pads to trigger events, which are then processed within SuperCollider to execute functionality.
